@@ -1,6 +1,6 @@
 {
-  "name": "tictactoe",
-  "short_name": "tictactoe",
+  "name": "TicTacToe PWA Game",
+  "short_name": "TicTacToe",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
