@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fireship-bee81": {
+      "hosting": {
+        "tictactoe": [
+          "tictactoe-chl"
+        ]
+      }
+    }
+  }
+}
